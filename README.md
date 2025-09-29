@@ -1,7 +1,8 @@
-# Имитационное моделирование
-<!--[В начало](https://github.com/dimondlove/simulation_modeling/tree/master)-->
+# Знакомство с системой имитационного моделирования GPSS World
 
-## Задания
+Практическая работа 1_Отчет_Вариант 9.docx - отчет в формате Word
+&ast;.gps - код симуляции
+&ast;.sim - логи симуляции
+&ast;.gpr - отчет о симуляции
 
-1. [Моделирование случайных величин](https://github.com/dimondlove/simulation_modeling/tree/first_task)
-2. [Перемножение матриц](https://github.com/dimondlove/simulation_modeling/tree/second_task)
+[В начало](https://github.com/dimondlove/simulation_modeling/tree/master)
