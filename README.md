@@ -10,3 +10,4 @@
 5. [Моделирование простейших СМО с очередями](https://github.com/dimondlove/simulation_modeling/tree/fifth_task)
 6. [Построение гистограмм](https://github.com/dimondlove/simulation_modeling/tree/sixth_task)
 7. [МОДЕЛИРОВАНИЕ ВЫЧИСЛИТЕЛЬНЫХ СИСТЕМ С ПОМОЩЬЮ СИСТЕМЫ GPSS/PC](https://github.com/dimondlove/simulation_modeling/tree/seventh_task)
+
